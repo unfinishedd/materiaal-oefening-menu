@@ -2,7 +2,7 @@
 body {
     padding: 0;
     margin: 0;
-    background-color: thistle;
+    background-color: rgb(143, 37, 143);
     font-size: 26px;
 }
 
@@ -11,9 +11,10 @@ body {
     margin: 0;
     text-align: center;
     font-size: 30px;
-    collor: whitesmoke;
-    background-image: url(../afb/Kerstmenu.jpeg)
+    color: whitesmoke;
     background-position: center;
+    background-image: url(../afb/Kerstmenu.jpeg);
+    
 }
 
 main {
